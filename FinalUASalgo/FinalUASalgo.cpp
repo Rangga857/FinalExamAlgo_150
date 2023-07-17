@@ -150,3 +150,4 @@ itu, tumpukan disebut struktur data Last-In-First-Out (LIFO).
 		1. Mengunjungi yang ke arah kiri dulu
 		2. mengunjungi root
 		3. mengunjungi yang ke arah kanan*/
+
